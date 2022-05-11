@@ -1,3 +1,5 @@
 hello git
 second
-trd
+trd - hello-git-cli
+frd - hello-git-cli
+
